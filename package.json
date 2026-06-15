@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/lealrj/projeto-nodejs-step/issues"
   },
-  "homepage": "https://github.com/lealrj/projeto-nodejs-step#readme"
+  "homepage": "https://github.com/lealrj/projeto-nodejs-step#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
 }
